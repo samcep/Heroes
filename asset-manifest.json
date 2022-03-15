@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Heroes/static/js/main.5f35eea5.js",
+    "index.html": "/Heroes/index.html",
+    "main.5f35eea5.js.map": "/Heroes/static/js/main.5f35eea5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f35eea5.js"
+  ]
+}
